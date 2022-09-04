@@ -26,3 +26,5 @@ Tool: Microsoft Excel and powerpoint
 Analyzed and derive insights from the rental fleet data to reach goal of minimizing cost and maximizing profit
 Produced different strategies that could help the business attain its goal through analysis of their raw data from the previous years 
 Presented insight and findings using Microsoft Excel and Powerpoint.
+
+![alt txt](Lariat Rental Cover.png)
