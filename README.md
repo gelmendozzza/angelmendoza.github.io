@@ -1,6 +1,3 @@
-# angelmendoza.github.io
-angel's portfolio website
-
 # About me
 
 Hi, my name is Angel Mendoza, Data Analyst in San Francisco Bay Area. Data is more important now than ever and it is all around us, which is why as a data analyst I help transform data into a meaningful insight that could help others make data-driven decisions. 
