@@ -11,7 +11,7 @@ The goal of this project is to analyze the correlation between employer reputati
 
 Tool: Python
 
-![](https://github.com/gelmendozzza/angelmendoza.github.io/blob/main/World%20university%20ranking%20cover.png)
+![alt txt](https://github.com/gelmendozzza/angelmendoza.github.io/blob/main/World%20university%20ranking%20cover.png)
 
 # [Housing Price Driving Force - Statistical Analysis and Variables Affecting Price](https://github.com/gelmendozzza/Housing-Price-Driving-Force)
 Analyzed and derived insights from the housing market dataset to identify variables that influences house prices
@@ -19,6 +19,8 @@ Conducted statistical analysis using T-test and Correlation analysis to determin
 Presented results and recommendations based on findings of the statistical test
 
 Tool: Microsoft Excel and powerpoint
+
+![alt txt](Factors Affecting House Prices Cover.png)
 
 # [Lariat Rental Company: Business Model Analysis and Growth Revenue Opportunity](https://github.com/gelmendozzza/Lariat-Car-Rental-Company)
 Analyzed and derive insights from the rental fleet data to reach goal of minimizing cost and maximizing profit
