@@ -11,7 +11,7 @@ The goal of this project is to analyze the correlation between employer reputati
 
 Tool: Python
 
-![alt txt](Screen Shot 2022-08-18 at 1.23.03 PM.png)
+![](https://github.com/gelmendozzza/angelmendoza.github.io/blob/main/World%20university%20ranking%20cover.png)
 
 # [Housing Price Driving Force - Statistical Analysis and Variables Affecting Price](https://github.com/gelmendozzza/Housing-Price-Driving-Force)
 Analyzed and derived insights from the housing market dataset to identify variables that influences house prices
