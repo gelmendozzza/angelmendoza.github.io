@@ -5,7 +5,7 @@ Hi, my name is Angel Mendoza, Data Analyst in San Francisco Bay Area. Data is mo
 # Recent Work/Projects
 
 # [World University Ranking - Statistical Analysis and comapring of means using T-test](https://github.com/gelmendozzza/world-university-ranking)
-In this project, I did an analysis on World university ranking 2023 dataset by QS World University ranking wherein they feature the top 1400 university across the globe. 
+An analysis on World university ranking 2023 dataset by QS World University ranking wherein they feature the top 1400 university across the globe. 
 
 Institutions were assessed across six categories(indicators) to effectively capture their performance. Base on QS World University Ranking, their main objective was to help students decide for their future.
 
