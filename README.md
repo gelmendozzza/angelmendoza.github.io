@@ -30,3 +30,8 @@ Produced different strategies that could help the business attain its goal throu
 Presented insight and findings using Microsoft Excel and Powerpoint.
 
 ![alt txt](Lariat Rental Cover.png)
+
+# [SQL Projects] (https://github.com/gelmendozzza/SQL-projects)
+SQL projects using PostgreSQL
+
+![alt txt](sql cover.jpg)
